@@ -14,7 +14,8 @@
 
 
 <img src="./assets/converter.png"  width ="30%"  alt=" converter img"> <br>
-
+<img src="./assets/converter.png"  width ="30%"  alt=" converter img"> <br>
+<img src="./assets/converter.png"  width ="30%"  alt=" converter img"> <br>
 
 > Este projeto teve por objetivo colocar em pratica novas habilidades no HTML e CSS e Javascript.
 
